@@ -1,4 +1,4 @@
-Efficient Hardware implementation of npoint FFT algorithm using Verilog.
+Efficient Hardware implementation of 8-point FFT algorithm using Verilog.
 1) To compute 8-point DFT of a sequence via
 FFT algorithm using Verilog and Xilinx
 ISE/Vivado.
@@ -6,5 +6,9 @@ ISE/Vivado.
 complement form.
 3) Output generated is in 2’s
 complement representation.
+4)Store complex numbers as 16-bit values
+with the first 8 bits representing the real part
+and the later 8 bits representing the
+imaginary part.
 
 
