@@ -6,7 +6,7 @@ ISE/Vivado.
 complement form.
 3) Output generated is in 2’s
 complement representation.
-4)Store complex numbers as 16-bit values
+4)Complex numbers are stored as 16-bit values
 with the first 8 bits representing the real part
 and the later 8 bits representing the
 imaginary part.
